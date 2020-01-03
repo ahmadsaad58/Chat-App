@@ -32,3 +32,6 @@ There are demo videos included that you can view to better understand how it wor
 ### Some comments on Implementation and sharing
 I created a server and a client. The server code is for running the server and does not need to be shared with other users. 
 The client code, however, does need to be shared and is important for connecting to the server and communicating with others. The server is multithreaded and has a few key functions. There are comments on the code itself that explains what each segment does. There are comments on the client code as well. 
+
+
+<i> Note: This repo is a new git repo as the old one had a ton of large files that could not be uploaded </i>
